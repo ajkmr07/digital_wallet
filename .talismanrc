@@ -1,10 +1,12 @@
 fileignoreconfig:
   - filename: pubspec.lock
-    checksum: fa8c8963eb14685b1950feabf18a2815f1783d81c2583f198a98ffada463d399
+    checksum: 0ed56e885c1c85cec559469d6b0babb119c89a15a89e71fcd80c753474ba9861
   - filename: lib/models/freezed/complex_freezed_asset.freezed.dart
     checksum: dfa8f94cfef2463c0edb169f352682dad427a66eee4d59ce147ceb13f9369d34
   - filename: lib/models/freezed/freezed_asset.freezed.dart
     checksum: 17bb702f0be05188bcfbecdc745dbdf9d5987849cd3692788130957e1e2aa355
   - filename: lib/models/freezed/freezed_user_balance_details.freezed.dart
     checksum: 711e8615c6750a91fee62aa5ad2225e02069877c964aace49c94ebc3b77e3f7b
+  - filename: lib/features/auth/data/models/user_profile_response.freezed.dart
+    checksum: c19a027be0d98060acbd319f8b34f1b1afdabf2c0f63c5abca456c53d33e85d4
 version: ""
